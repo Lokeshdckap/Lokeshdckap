@@ -2,11 +2,12 @@
 Full Stack Developer.
 
 Here is my Work Stack
-
-HTML
-CSS
-Javascript
-Jquery
-PHP
-Mysql
-Bootstrap
+<ul>
+<li>HTML5</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Jquery</li>
+<li>PHP</li>
+<li>Mysql</li>
+<li>Bootstrap5</li>
+</ul>
