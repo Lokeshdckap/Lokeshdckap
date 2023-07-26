@@ -8,8 +8,6 @@ Here is my Work Stack
 <li>Javascript</li>
 <li>Jquery</li>
 <li>PHP</li>
-<li>Laravel</li>
-<li>Livewire</li>
 <li>Mysql</li>
 <li>Bootstrap5</li>
 </ul>
