@@ -9,7 +9,7 @@ Here is my Work Stack
 <li>Jquery</li>
 <li>PHP</li>
 <li>Laravel</li>
-<li>Livewire</li>
+<li>Livewire V2</li>
 <li>Mysql</li>
 <li>Bootstrap5</li>
 </ul>
