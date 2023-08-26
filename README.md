@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lokesh
-Full Stack Developer.
+Full Stack Developer Trainee.
 
 Here is my Work Stack
 <ul>
