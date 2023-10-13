@@ -13,5 +13,6 @@ Here is my Work Stack
 <li>Laravel</li>
 <li>Livewire V2</li>
 <li>Mysql</li>
+<li>PostgreSql</li>
 <li>Bootstrap5</li>
 </ul>
