@@ -6,6 +6,8 @@ Here is my Work Stack
 <li>HTML5</li>
 <li>CSS</li>
 <li>Javascript</li>
+<li>Express JS</li>
+<li>Node JS</li>
 <li>Jquery</li>
 <li>PHP</li>
 <li>Laravel</li>
